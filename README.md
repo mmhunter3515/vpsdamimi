@@ -1,141 +1,279 @@
+## 最好的国外VPS推荐
 
-# 2021最佳VPS推荐;国外vps推荐
+2022年不知不觉就到来啦.[vps服务器商](http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F2Mh8Rw4&sa=D&sntz=1&usg=AOvVaw1sbx17foF8od2GvMJeRKME)在19年貌似都不好过啊.在新的一年里vps的江湖要从重新排位了.当然了这个是个人在vps服务器这个行业使用多年和观察多年本着客观的心写的 主观的排位拉.俗话说一样米养百样人.每个人心中都有自己的那个哈利波特.因为vps服务器这样产品的特殊性.对个人来说可能使用感受会不一样.点解？比如说:你是个在深圳的用户使用的系统是windows经常访问的网络是香港那边的.那么和我这个在上海的码农长期使用的是linux系统经常访问的网络是外网.2者就算使用同一个vps商家同一款vps产品.使用的感受也是大大的不同的.希望大家可以get到哈.
 
-在论坛、QQ群或网站留言里，经常会有人问有哪些便宜的VPS。因为不少人买国外VPS都是用来搭梯子科学上网翻墙、跑跑任务、建个人网站，一般对于VPS的性能要求不算太高，能满足基本需求即可。但需要注意的是，买美国和香港VPS的时候有一些坑需要避开，不然即浪费金钱、精力，又费时间，得不偿失。
+在过去的一年里.最大的感受就是因为貌似特殊的原因,很多针对大陆市场的小商家都倒闭跑路了.轻轻地留下一封跑路的邮件. 追也没追啊。所以本次排行这排那些相对靠谱并且是比较出名的[vps商家](http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F2Mh8Rw4&sa=D&sntz=1&usg=AOvVaw1sbx17foF8od2GvMJeRKME).基于以下原因:
 
-## 不推荐的VPS
+1。经验来看那些不出名的商家会设置一些门槛,这些门槛会使[最好的搬瓦工](http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F2Mh8Rw4&sa=D&sntz=1&usg=AOvVaw1sbx17foF8od2GvMJeRKME)和一般使用者难以使用,比如有名的菜鸟杀手idcf.即使其实力超群.线路优化一流,硬件配置质量一流,服务一流中的一流.可惜只服务于日本地区.要你何用?
 
-```gfm position-relative
-购买的VPS如果在国内不能用，再便宜也不要买！
-```
+2.vps小商家人单势薄不定时oneman就是夫妻档,服务肯定跟不上 .能跟上的要么根本就是没几个人使用的,人多用服务还能跟的上还是小商家么.你敢用吗.费事介绍了.
 
-目前有几家国人用户较多的VPS商家IP被封比较严重，比如BandWagon搬瓦工、Vultr、DO等，由于前几年国人购买这几款VPS搭梯子翻墙的人太多，IP大面积被封（国内网络无法访问），商家的IP资源再多也扛不住墙的打击，我今年在Vultr开了几次都没有一个可用的IP，大家就别浪费时间了。BandWagon搬瓦工目前已经不便宜了，最低年付49.9刀，而且要看运气，运气好还能搞到能用的IP，但如果购买的VPS的IP是被封的，换一次IP要8.79刀，而且不能确保是可用IP，感觉很鸡肋。
+3.就是19年的商家跑路潮深深地震撼了我,一天几个商家跑路都有.吓死人灭.某段时间我数了一下一直关注跑路的商家：
 
-## 香港VPS特点
++   1.  Bigfoot Servers
+        
+    2.  DCNHost
+        
+    3.  HostBRZ
+        
+    4.  HostedSimplely
+        
+    5.  Hosting73
+        
+    6.  KudoHosting
+        
+    7.  LQHosting
+        
+    8.  MegaZoneHosting
+        
+    9.  n3Servers
+        
+    10.  ServerStrong
+        
+    11.  SnowVPS
+        
+    12.  SparkVPS
+        
+    13.  StrongHosting
+        
+    14.  SuperbVPS
+        
+    15.  SupremeVPS
+        
+    16.  TCNHosting
+        
+    17.  UMaxHosting
+        
+    18.  WelcomeHosting
+        
+    19.  X4Servers
+        
 
-香港vps也比较热门，由于香港寸土寸金和港商的鸡贼，香港vps相对于美国VPS、新加坡、日本等热门地区的vps主机的价格高居不下。我讲下香港机房的主要特点：
+有你曾几何时使用的那个吗?我都怀疑是否是同一个大佬的骚操作呢.
 
-1. **价格相对较贵**，香港vps相对于其他热门地区相同配置的VPS价格贵了不少，大多数都是$10/月起步。一方面是竞争大、地盘小；另一方面是奸商垄断，vps主机行业在香港水很深，如果新商家价格过低，会遭到其他商家的打压，比如疯狂DDos和CC攻击。前几年SL机房在香港刚刚开卖就被持续D了半年之久，最后终于撑不住了，取消大陆直连后才慢慢恢复。
-2. **带宽较小**，大部分是1-5Mbps的水龙头带宽，但并不绝对，有钱就能任性。带宽小，只能适合对速度要求不高的用户，4k视频是不用想了，建站使用如果并发数过大也很难撑得住。
+所以以下的排名是在剔除了某些冷门的和某些不靠谱的小商家遗留的精英vps商家哈:
 
-所以，**如果是搭梯子，香港vps我并不大推荐，并不一定地理位置离得近速度就快**。我建议科学上网的同学，要么使用[稳定的翻墙梯子，要么使用美国VPS的CN2线路，价格便宜、带宽大、速度快。不推荐搬瓦工除香港之外的机房和Vultr的机房，IP目前基本不能用了；
+![](https://lh3.googleusercontent.com/tXxFjGpPuQpxNEv2cnYgfbU7WZVwUOexgzWHs1CQ4oBP_Ujd39pKUS_HwOAWLLHpdrif6OKBX2Y7FDuQ2fV3aPWTz7u5eypTQBPtOKmFi-_54mk3=w1280)
 
-如果是建站，网站访客不多的话可以考虑，网站流量很大的话美国vps（CN2 Gia线路）不香吗？在国内打开站点慢是慢点，但不会和香港vps差距很大，国外访问就更快了。简单来说，香港VPS适合要求在大陆访问速度快、不用备案、网站访客量不大的用户。
+配置 ★★★★☆
 
-当然，有钱就能任性，钱管够香港vps还是很香的，钱不够的同学请参考上面我的建议。搬瓦工的香港VPS，除了价格贵没什么大的缺点，预算充足可以考虑，但是搬瓦工除香港之外的机房不再推荐购买，因为服务器IP大面积被封，有些新开的服务器IP就不能用，付费换IP也不能保证可用。
+线路 ★★★★★
 
-## 便宜的高性能VPS推荐 - [HostWinds](https://linkv.org/hostwinds/)
+技术 ★★★★☆
 
-[![HostWinds](https://camo.githubusercontent.com/c699bb0bb142a218b048d8d6fe8e26a6d2393af1cf3dd357816269f9aab0c3bc/68747470733a2f2f7777772e73616665776562636e2e636f6d2f696d672f686f737477696e64732d6c6f676f2d6d696e2e706e67)](https://github.com/vpsda/vpsda.github.io#%E4%BE%BF%E5%AE%9C%E7%9A%84%E9%AB%98%E6%80%A7%E8%83%BDvps%E6%8E%A8%E8%8D%90---hostwinds)
+综合 ★★★★☆
 
-Hostwinds算是主机界的后起之秀，成立于2010年。目前提供了虚拟主机，云主机，VPS, 独立服务器等，它的服务器数据中心也只有两个，达拉斯和西雅图，国内用户推荐选择美国西海岸的西雅图机房，速度快，延迟较低。Hostwinds的口碑一直不错，所有的主机都会采取自动的全球CND加速，服务器采用的是SSD硬盘（相对于传统的机械硬盘传送速度会快很多），免费SSL证书，免费域名，免费独立ip等等，重点是价格还比较便宜！
+官网：[https://vultr.com](https://www.google.com/url?q=https%3A%2F%2Fvultr.com%2F&sa=D&sntz=1&usg=AOvVaw05KkezxVA3VEC0FuB8O84N)
 
-Hostwinds在国内名气不算大，还没有像搬瓦工、Vultr那样国人扎堆，我自己建站实测速度比搬瓦工和VULTR都好不少。月付$4.99，支持支付宝，1Gb内存，1Tb流量，自带 SNAPSHOT 快照备份，可以免费更换IP。
+最新注册送一百美金活动:[注册送一百美金](http://www.google.com/url?q=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttp%253A%2F%2Fbit.ly%2F2yuHgU6&sa=D&sntz=1&usg=AOvVaw1UxpgVYRJ6mecfGgBz5JKe)
 
-HostWinds的VPS包含Linux和Windows系统，分为Managed托管型和Unmanaged非托管型。VPS产品包含托管型Linux VPS和非托管型的Linux VPS，托管Windows VPS 和非托管Windows VPS。
+vultr毫无疑问是大厂中的大厂,特别是相对与国内更加算是大厂中的战斗鸡。加上近年来在国际上的云战略部署,更是将云服务玩到了世界。全球有多个数据中心.根据最新资料现在其已经旷展到了16个数据中心.并且vultr的硬件配置非常强劲.cpu一般是e5甚至在近来amd发力的情况下上了i9之类以前主打家用的cpu。而硬盘必须是intel的ssd。还有个一般厂商不具备的功能就是按可以按月或者按小时计费(特别是国际版)。某些时候更是有超出了天际的性价比vps,比如2.5想想都觉得美。可以说是这个星球机房最多配置最灵活的vps大厂.
 
-* Managed托管型的Hostwinds官方技术人员为服务器提供全套运维服务，省事省力，但是价格稍贵一些，有点不划算。
-* Unmanaged非托管型就是买个裸机VPS，随意DIY，包括系统在内的所有程序自己搭建（按流程很简单），在学会一些Linux的知识的同时还能省点钱，性价比较高。
+优点:
 
-目前Hostwinds托管型Linux的价格最低是5.17美元/月， 非托管型的Linux价格最低是4.49美元/月，两者都是1CPU,1Gb内存，30GB的SSD硬盘空间，1TB的数据流量。
++   1.强大的后台支撑没人能敌，全球拥有多个国家和地区的机房数据中心。在这个靠爹的年代领先别人一步.
+    
++   2.vultr的vps目前都是SSD硬盘、KVM架构，旧硬盘 openvz 基本被淘汰.
+    
++   3.价格优势最低可到2.5美刀每月,甚至68.5元一年秒杀同级别同行和灵活的付费方式.
+    
++   4.常年不定期的各种优惠活动.
+    
++   5.api 支持行业顶级。
+    
 
-托管型Windows的价格最低是7.79美元/月，非托管型的Windows价格最低是9.89美元/月，两者都是1CPU, 1GB RAM， 30GB的SSD硬盘空间，1TB的数据流量。
+劣势：
 
-可以看到非托管型的Linux性价比最高了，每月费用甚至比Vultr还低，更不用说搬瓦工了，但是系统配置却比Vultr更高。机房选择有达拉斯，西雅图和阿姆斯特丹。我建议选择西雅图机房，国内访问速度还不错。目前官网正做活动，新用户优惠10%！
++   vultr个人认为在就技术价格等纯硬件毫无疑问是稳稳的第一，然后个人比较恶心的是常年的套路操作。比如经常搞活动，活动的会突然而止，解释也是很勉强。公司的bug致使1m的网络变了100m。通知都没声就收回去了。我鸡的项目直接挂了几天都不知道。那个亏损谁负责？所以对它的好感不怎么样。抛弃个人情感。毫无疑问vultr最香的。不过其他云有追赶的趋势。
+    
 
-#### [获取HostWinds优惠链接&gt;&gt;](https://linkv.org/hostwinds/)
+SSD VPS Servers, Cloud Servers and Cloud Hosting by Vultr​bit.ly
 
-### 如何购买Hostwinds-VPS
+![](https://lh6.googleusercontent.com/2TnLhztVrtEcaV5jNZaTJE92VdbjlGeTIlFl3qIDE-VFzaxfYhEeUEMRH-zs6XuAexQ_Fg=w1280)
 
-下面我以Unmanaged非托管型VPS为例进行说明，首先[打开Hostwinds官网](https://linkv.org/hostwinds/)，选择Unmanaged， 1GB – $4.99这款VPS。
+![](https://lh5.googleusercontent.com/pF7YPn0j7xBdMU0blMe_HTLLDMv9sCFYqxuM2C7QJgHlIEtRIwZKLF_retbW0QeERwptwD_0-tZjbMp2PCb6C8Q5VlbGq03TASgbpwyGxbXNNEA6=w1280)
 
-[![如何购买HostWinds](https://camo.githubusercontent.com/a39007ee69398c4fd6d8dd581a956bf6aada28f0fbbee124b41a64b7c7e34f17/68747470733a2f2f7777772e73616665776562636e2e636f6d2f696d672f486f737477696e64732d556e6d616e616765642d7670732e706e67)](https://github.com/vpsda/vpsda.github.io#%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0hostwinds-vps)
+配置:★★★★
 
-点击“Order”注册账户。如果是用PayPal付款，邮箱地址最好和PayPal账户邮箱保持一致，使用支付宝和银行卡付款使用自己的常用邮箱就行：
+线路:★★★★☆
 
-[![如何购买HostWinds](https://camo.githubusercontent.com/c660f09bae07f063b399c667c98a67e558c69093411a1279b9bf8765dfbacf05/68747470733a2f2f7777772e73616665776562636e2e636f6d2f696d672f486f737477696e64732d656d61696c2d72656769737465722e706e67)](https://github.com/vpsda/vpsda.github.io#%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0hostwinds-vps)
+技术支持:★★★☆
 
-接下来需要填写一些必要的注册信息。请尽量填写真实信息，特别是IP地址要和本机所在地相同，这是网站防止信用卡盗刷风险。比如你在广州，IP显示地址也是广州，就不能填地址在上海。Hostwinds官网在中国是可以正常访问的，所以，为避免不必要的麻烦，如果你在使用梯子或者代理服务器，在购买前请确保关闭梯子，尽量使用本地网络访问，否则订单的审核可能会出现问题：
+综合评定:★★★★
 
-[![购买HostWinds](https://camo.githubusercontent.com/52c478bd9e25f64a36833411a908efe7e12704b35304f92437d39c9d8fc72529/68747470733a2f2f7777772e73616665776562636e2e636f6d2f696d672f486f737477696e64732d696e666f6d6174696f6e2e706e67)](https://github.com/vpsda/vpsda.github.io#%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0hostwinds-vps)
+官网：[https://bandwagonhost.com](https://www.google.com/url?q=https%3A%2F%2Fmatters.news%2F%40kaimenzhe%2F2021%25E6%259C%2580%25E5%25A5%25BD%25E7%259A%2584vps%25E6%258E%25A8%25E8%258D%2590-vps%25E8%25AF%2584%25E6%25B5%258B-%25E4%25BE%25BF%25E5%25AE%259Cvps-%25E9%25A6%2599%25E6%25B8%25AFvps%25E6%258E%25A8%25E8%258D%2590-%25E9%25A6%2599%25E6%25B8%25AFvps-bafyreiaoy6kzoq5g6ac35zvomcjbdrmpvvdjzmepw3edtdqifsmdzzbhim&sa=D&sntz=1&usg=AOvVaw3Mx72ANzk2PR0M1DToWH8W)
 
-然后，选择并确认信息。确认是Unmanaged非托管型，付款周期（年付/季付/月付），机房（西雅图/SEATTLE），系统为Debian 9（占用内存小，适合建站，也可选CentOS或Ubuntu），确认主机为CPU:1 Core，内存1GB，存储30GB。其他信息默认不需改动：
+搬瓦工在国内知名度非常高,它是加拿大公司it7下面的子公司,可以说是主要的客户人群在国内，一个字便宜稳定购买又方便。。都是国内最爱的特点了.近一年多可以看到搬瓦工正在进行业务方面的调整.似乎正在优化掉低端的vps服务比如极低价的openvz架构系列vps.已经进入了历史的坟墓.和我国的经济一样正在向高质量方向发展呢.
 
-[![购买HostWinds](https://camo.githubusercontent.com/b852ce7e2b5fbf71298105ae38cf69f03d792e0da9d67628e901d5faade203ae/68747470733a2f2f7777772e73616665776562636e2e636f6d2f696d672f486f737477696e64732d756e6d616e616765642d7670732d6f726465722e706e67)](https://github.com/vpsda/vpsda.github.io#%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0hostwinds-vps)
+优点:
 
-这里有可选功能：云备份和VPS监测提醒，可以根据自己的需求选择：
++   1.如果你是个新手,如果你是个没有折腾的心的一般玩家,强烈推荐搬瓦工.因为它后台对常用的应用和功能有一键安装功能.对于新手来说无疑太贴心了哈.
+    
++   2.搬瓦工的vps非常保值甚至很多产品会升值.比如传说中的神鸡：年付3.99美元openvz架构vps曾几何时价格直接翻了好几番.作为个vps届的玩家还买什么房保值呢.直接炒搬瓦工的vps就可以了.
+    
++   3.机器稳定性网络稳定性非常出色,无论是私人还是做网站都很合适,2 3年都不宕机.即使机器有问题搬瓦工也会及时通过站内信还邮件通知你.官方声称在线率99.99%。你会不会是那万分之一呢?
+    
++   4.支持微信，支付宝支付,对国内用户非常友好.拥有单独针对国内的优化路线cn2 cn2 gia 等.并且是独立资源的线路,和一般那些小商家和oneman哥哥声称的cn2 cn2 gia共享型完全不一样.便宜稳定 ️方便,一鸡在手满足你3个愿望.可以说你是国内用户不可多得的选择商家了。
+    
 
-[![HostWinds云备份](https://camo.githubusercontent.com/47a1058053ae8203fc0a38cc0de9f14c0df52a2453bb6107eade5c9fc399923f/68747470733a2f2f7777772e73616665776562636e2e636f6d2f696d672f486f737477696e64732d636c6f75642d6261636b75702e706e67)](https://github.com/vpsda/vpsda.github.io#%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0hostwinds-vps)
+劣势：
 
-支付方式有信用卡（Visa、Master Card）、Paypal和支付宝，支付方式建议优先选择Paypal，如果没有Paypal可以选择信用卡或支付宝：
++   有时候有些优势会引发出劣势.搬瓦工就是个例子.因为国内搬瓦工实在太多人使用的缘故.晚上高峰搬瓦工线路还是会出现炸的现象.管子大人更多啊.这个不但是搬瓦工的问题.而是国人实在是太多了。要知道淘宝双11也爆啊。晚上高峰会出现炸的现象不过一般操作操作还是可以的。只是体验差一些尔尔.另一个就是价格比之原来贵了不少.那年那月的屌丝搬瓦工有向高大上富二代迈进的趋势.
+    
 
-[![HostWinds支付方式](https://camo.githubusercontent.com/675da13e9ea76f3d79739ef8f36d8e466c8519157b112d94009038fe9503fb3e/68747470733a2f2f7777772e73616665776562636e2e636f6d2f696d672f486f737477696e64732d7061796d656e742d6d6574686f642e706e67)](https://github.com/vpsda/vpsda.github.io#%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0hostwinds-vps)
+当然要是你不计较的话花多几个钱买cn2 gia甚至是香港gia的话。那么上面的缺点就完全没啦。直接化身成流畅稳定速度快的神鸡。
 
-最后，勾选同意服务条款、隐私政策，并确认订单支付：
+[搬瓦工 — BandwagonHost VPS​bwg.freelancewebs.net](https://www.google.com/url?q=https%3A%2F%2Fmatters.news%2F%40kaimenzhe%2F2021%25E6%259C%2580%25E5%25A5%25BD%25E7%259A%2584vps%25E6%258E%25A8%25E8%258D%2590-vps%25E8%25AF%2584%25E6%25B5%258B-%25E4%25BE%25BF%25E5%25AE%259Cvps-%25E9%25A6%2599%25E6%25B8%25AFvps%25E6%258E%25A8%25E8%258D%2590-%25E9%25A6%2599%25E6%25B8%25AFvps-bafyreiaoy6kzoq5g6ac35zvomcjbdrmpvvdjzmepw3edtdqifsmdzzbhim&sa=D&sntz=1&usg=AOvVaw3Mx72ANzk2PR0M1DToWH8W)
 
-[![HostWinds隐私政策](https://camo.githubusercontent.com/b0dbfbe2fd1d391b5008feb6f2d2b2215a6dddefe6d12162f71b637f8b94e564/68747470733a2f2f7777772e73616665776562636e2e636f6d2f696d672f486f737477696e64732d746f732e706e67)](https://github.com/vpsda/vpsda.github.io#%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0hostwinds-vps)
+![](https://lh5.googleusercontent.com/y2iOhNpgGui01T14m8cBh9NPPwDBy1OlgybUNVV9NAp_ltsgcoCPMbfk7ZephZzCt5n5ZOIVyP-bBqhYbNGN0l-z94h4yQu-XbVPmlkcmzmUy_Hx=w1280)
 
-完成订单付款后，等待几分钟，邮箱会收到VPS成功开通的邮件，邮件有VPS相关信息，比如VPS服务器的IP地址、root密码和SSH端口等。建议复制保存下来备用，免得以后要登录VPS时找得麻烦。
+配置 ★★★★★
 
-### IP更换的方法
+线路 ★★★★☆
 
-进入VPS管理后台，点击Manage IP’s ，然后点击Fix ISP Block按钮，在弹出的窗口点击确认Confirm。
+支持 ★★★★☆
 
-[![HostWinds换IP](https://camo.githubusercontent.com/0bab30d546395463b9869ca48a5515c0ba32f5f43c5c9f3c034c87796c6c3189/68747470733a2f2f7777772e73616665776562636e2e636f6d2f696d672f486f737477696e64732d4669782d4953502d426c6f636b2e706e67)](https://github.com/vpsda/vpsda.github.io#ip%E6%9B%B4%E6%8D%A2%E7%9A%84%E6%96%B9%E6%B3%95)
+综合 ★★★★☆
 
-购买后点此查看[如何正确设置和优化VPS，以及WordPress建站](https://www.wpdas.com/wordpress-lnmp-vps-website/#SSH%E8%BF%9E%E6%8E%A5VPS%E6%9C%8D%E5%8A%A1%E5%99%A8)
+官网：[https://cloud.tencent.com](https://www.google.com/url?q=https%3A%2F%2Fcloud.tencent.com%2F&sa=D&sntz=1&usg=AOvVaw0YQoAX9ZYZoyF4rEG0NtmB)
 
-#### wikihost
+云产品采购季，助力行业复工！-腾讯云​url.cn
 
-[https://idc.wiki](https://idc.wiki/aff.php?aff=680&gid=9)
+阿里云又名套路云.处处是套路.防不胜防,当然这是特指国内节点.本排名第3的绝不会把套路玩家排上来的.这里推荐的是国内有良心云之称的腾讯云。对国内局域网玩家来说腾讯云软硬件线路明显优势.国内只有阿里云可以匹敌。一流的硬件配置描述所以国内厂商包括阿里云。曾经用低端机做过测试：安装宝塔面板，阿里云t5一直占用100%有假死状态。而华为云只占20%，腾讯云更是仅仅占用5%。价格基本一致都是活动最低哪款。没对比就没有伤害。谁套路，谁良心。不是一目了然吗。
 
-这是一家国内厂家，已经做了好几年了，个人认为是性价比最高的一家，本人也已经用了好几年了。低价年付的vps非常适合用来做工具，看youtube的1080P无压力，当然[低价年付](https://idc.wiki/aff.php?aff=680&gid=7)经常缺货，另外可以选择[美国洛杉矶Cera KVM VPS](https://idc.wiki/aff.php?aff=680&gid=9)。配置放面是内存128M、硬盘3G、月流量250G、网络速率50Mbps。他家还有更低的年付￥70，对网络要求不高的可以购买。 支持支付宝、paypal等付款
+优点:
 
-#### frantech
++   硬件配置线路稳定性等都是国内顶级.购买活动产品性价比高出天际，经常出现1折甚至0.5折产品，一年88块。电费都收不回来的。明显的亏本抢市场。
+    
 
-[https://my.frantech.ca](https://my.frantech.ca/aff.php?aff=3120)
+劣势：
 
-该公司自2010年以来一直是价格合理的虚拟服务器市场的先驱。已经从一个充满希望的初创企业发展成了一家成熟的企业，可在高峰的时候表现出色，并始终以总正常运行时间为目标。从OpenVZ、KVM、KVM存储或Windows VPS产品中进行选择，并使用Stallion控制面板、DDOS保护和Anycast的增强主机。目前512MB的机器只要2美刀每月，性价比非常不错。 支持支付宝、paypal等付款
++   进入云市场不如阿里云早，云生态还没阿里完善，不过对一般玩家来说等于没有区别。曾经在google 投关键词 居然找不到腾讯云这样的关键词。可见实力远大于知名度。趁现在推广不买更待何时？
+    
 
-#### banwagong
+国内局域网玩家强力推荐腾讯云。实力靠谱良心。不玩套路。用的也舒心放心。
 
-[https://bandwagonhost.com](https://bandwagonhost.com/aff.php?aff=51270)
+配置:★★★★
 
-banwagong可以说无人不知，无人不晓了，做了很多年的厂家，稳定可靠。香港服务器三网直连，网速速度非常快。适合个人建站或者做工具。之前还有低价年付，可能最近太火了，涨价了，现在价格上没有优势。 支持支付宝、paypal等付款
+线路:★★★
 
-#### vultr
+支持:★★★★☆
 
-[https://www.vultr.com](https://www.vultr.com/?ref=8148224)
+综合:★★★☆
 
-日本商家，最低5美刀起， 基于KVM平台，并且是SSD，主要提供vps服务，在全球有16处机房。拥有强悍的CPU性能，用来见web应用的话，性能非常出色。具备备份镜像的能力，以及云专用主机，不和其他人实例共用资源。 支持支付宝、paypal等付款
+官网：直达DigitalOcean
 
-#### virmach
+digitalocean 诞生于2012年的美国纽约,一开始只是个小vps厂商.因为其价格低,配置较高,部署灵活的特点.诞生几年时间发展就非常快速.并且在我国也享有非常高的声望和口碑.经过多年高速的发展。目前该公司有多节点数据中心遍布全世界各地.
 
-[https://virmach.com](https://billing.virmach.com/aff.php?aff=8258)
+优点:
 
-美国VPS商家，曾经的超低价vps，不过现在也涨到7美刀一个月了。主要业务有VPS以及web主机，有linux和windows系统可选，机房主要在美国和欧洲地区，也提供DDOS防护，技术支持，高性能CPU，高IO读写，数据备份等服务，支持支付宝、paypal等付款
++   1：它的优势非常明显,具备非常丰富的帮助文档.从操作系统的基本指令教程到安装各式各样的软件应用.你应当都能在他们的支持文档中找到答案.那么这样完善的文档系统是怎么形成的呢?秘密是它家有个关于文档的奖励机制.只要你能提供在他们目前文档中没有的文档。当然还应具备一定质量的情况下就可以获得50到200美元的奖金.在这样的激励计划下在数年的发展过程中一步步地就形成了比较完善的技术支持文档了.
+    
++   2：强到掉渣的api.他们的api能让api开发者开发出非常灵活自由的app。几乎能实现所有的网页操作.在安卓市场和苹果官方市场你都能下载到大量和do相关的app。某种程度讲可以看出其广泛使用性和普遍性.这是其他vps厂商所不具备的.
+    
 
-#### raksmart
+缺点：
 
-[http://www.raksmart.com](https://billing.raksmart.com/whmcs/aff.php?aff=2339)
++   在vps的江湖 do曾几何时是以低价杀手的面目出现.linode杀手多么恐怖的名字.比linode便宜，性能配置线路质量又具备和linode竞争的水平.那个时期把高高在上早就占领了不少市场份额的linode直接吓尿.当时直接价格减半.可见当时do对linode所做成的压力是多么大.时过境迁,当年的杀手已经不再有杀意。多年的硬件不跟新,路线也依然是那条路线,再明显的是新加坡还在绕美国那边.在现在硬件和网络的发展速度那么快的情况下无疑不进则退.它的硬实力已经下降太多甚至连搬瓦工都已经超越了它了.当然对比其他的中小vps商家它还是有压倒性优势的.毕竟烂船也还有3斤钉。
+    
 
-一家华人商家，主要提供 VPS主机 ，独立服务器等服务，全世界有三处数据中心，并且在香港设有机房，支持CN2线路，可想而知访问速度是非常不过的，还支持中文服务以及支付宝、paypal等付款
+![](https://lh5.googleusercontent.com/XzVolCzP1HpjkkQ128t3_TxmCZJfFQPK3hNPcnTsS5hk7p75ScmPvtvhvjOaY6RViQUJ-Fk72Z8YLxG6deVTQeIS3rmjtknVgmnpVZ1kcxxvpBbQ=w1280)
 
-### 选择国外vps的标准
+配置: ★★★★★
 
-#### 位置
+线路: ★★★★
 
-选vps跟选房产一样，有三个最重要的标准，位置！位置！还是位置！虽然说周边国家，比如日本虽然地理位置近，但是链接并不稳定，据我所知美国vps的网络链接总体来说是比较稳定，那些推荐什么俄罗斯，欧洲的要记得辨别，等你买来一跑，网络延迟可以让你怀疑人生，而且这种机子大多都不能退款，然后还是年付。于是你想起了那天夕阳下的奔跑，那是你逝去的青春。。。
+支持: ★★★★★
 
-#### 内存
+综合: ★★★★★
 
-其实说到内存的话，看你的vps是拿来干什么的，如果仅仅是当作自用的某些工具的话，那么128M都够用，选个网络延迟比较小的，找个脚本一跑就完事儿。如果你是建站的话，那么内存当然是一个很重要的指标。买一个1G的，装个mysql估计就把内存吃完了。所以这个指标得看你的需求是啥，然后在去选择适合自己的。
+官网：SSD Cloud Hosting Linux Server
 
-#### IP
+曾经vps届的贵族.基于目前云主机 vps行业残酷的竞争.目前也是走便价路线.最低可到5美刀没月.从20美刀到5美刀,这是经历着怎么样的竞争可见一斑.linode 在2003年成立于美国的新泽西州。最初也是个小作坊.多年来一步一步从小作坊成长为世界知名的vps品牌依然屹立不倒.无论是配置 路线 还是技术支持经过多年的积累已经是行业的翘楚.除非你有特殊的资源优势不然很难打败它.
 
-如果你要从国内访问的话，那么不管买vps干啥，IP都是很重要的指标了。毕竟现在都是直接F IP段的，尽量不要选择一些大家都用烂了商家。虽然国外的IP池比国内大得多，但是真的F起IP段来，换啥IP都是白搭。而且每个商家拿到的IP段肯定都是不一样的，所以选择一个小众的商家，也就选择了一个小众的IP段，能够最大限度的防止被F。当然选择的时候要小心采坑，不过这也是难免的，想一辈子不吃亏，又想得到自己想要的不太可能。所以对于选择IP段来说，其中是有很大运气成分的。
+**优点:**
 
-#### 价格
++   最新最强的硬件配置.最好最完善的技术支持和售后.强而有力的硬件加上稳如泰山的运行环境.加上应有尽有的附加服务.稳定,信誉,性价比,老牌已经成功linode的标签.如果你是个站长.不想折腾.只想安安份份地做站.那么它就是那个一直等待的另一半 — — linode.
+    
 
-虽然说价格是越低越好，但是任何时候都有个度，价格明显低于市场价，甚至你都怀疑他是否能挣钱的时候，就要想想这货是不是来骗钱的。当然价格太高也不是说就一定好，同样是1G内存和10G SSD，一个卖5刀，一个卖50刀，这不明摆着是欺负别人信息不对称嘛。所以价格放面多对比几家，看一下市场价大概是多少，也不要纠结几块钱的差别。
+**缺点:**
 
++   所谓人无完人,鸡无完鸡.linode也有它本身不能克服的缺点.因为linode在国内并不是cn2路线.走的是ntt所以晚上高峰ping值也会飙升.其次是开通linode需要信用卡验证才行.
+    
+
+是的，管理良好的VPS主机是非常可靠的。事实上，比你能得到的任何共享主机更可靠。这是因为你在任何时候都可以得到专用的服务器资源，不需要与任何人分享。
+
+VPS主机的费用可以低至3.95美元/月，高至数百美元/月。如果你的网站或项目是中等规模，便宜的VPS主机就可以了。但是如果项目的资源很重，高价位的计划可能会更好的支持它。
+
+如果你打算建立一个高流量或内容繁杂的网站 - VPS是一个明智的选择。同样，如果你需要将你的共享主机计划升级到一个更昂贵的计划--所有超过10美元/月的共享主机都最好使用VPS。
+
+是的，免费的VPS确实存在。但更多的是在理论上而不是在实际中。免费的VPS往往只是一个骗局，它收集了你的信息，但你并没有得到任何回报。由于这个原因，付费的VPS更加可靠。
+
+在这个列表中，A2主机是最快的VPS供应商。它有Turbo标签的计划，带有明显更多的服务器资源，并托管在企业级硬件上，使其成为最快的选择。
+
+想玩又稳又快有不想备案的vps服务器？香港vps可以说是内地vps用户的第一选择。因为香港地理位置和政治地位和制度的特殊性。致使香港vps具有速度快，建站简单直接，售后沟通也方便第极具竞争性的优点。这些优点都是非常突出的甚至是其他非大陆地区不具备的。所以对香港vps 这种可以说是链接大陆最快的vps来说需求总是非常旺盛。那么缺点呢？要是连缺点都没那还不是要上天啦。明显的。先总结一下缺点：
+
++   贵！没错贵就一个字。整篇文章下来我肯定不止说一次的。比欧洲美帝那边贵多了,那边相对来说便宜死了。只有在国内我们这些被围起来割的非菜买的那种vps才能相提并论。谁叫你想快又不备案做站呢？上华山最快的路需要买路钱。愿者上钓咯。
+    
++   小！什么小？网络出口条jj太小。相对美帝那边普遍的g口带宽。香港这边网口条jj太jb小了。1m，2m，10m都是土豪啊。香港寸金寸土我知道。网络带宽居然也是贵如狗。这路难行啊。
+    
++   硬！什么硬？实力要硬。能在香港的idc圈立足。必然实力要硬，不是一般硬要非常硬。因为这个贵小硬的地区竞争非常惨烈。软商家分分钟顶不住1个星期就挂调。比如你想玩低价抢市场？一群硬商家群发ddcc你顶的住？这些都是有历史事实证明过的事情。比如sl机房在香港刚开的时候就是被d到怀疑人生。最后被逼取消和大陆直连都才有好日子过的。
+    
+
+![](https://lh6.googleusercontent.com/6bwg8RvpKQgbpieLHGmtFvqesKNUEJDGfZ2363bwjYFcDXSXzMU3jFZdR9umy9EaMHHhrNCwiJ6lG6XCv4tRRkW2QJowz6oaLzlAJC_00NALZuKC=w1280)
+
+即使缺点多多多-》贵小硬。还是挡不住人们购买香港vps追求极致速度的原始性需求啊。以下介绍下我觉得靠谱的香港vps商家：
+
+香港电讯盈科：
+
+香港最大电信运营公司旗下机房，贵到飞起。只建议土豪入手。具体价格我都懒得罗列了。提起这货主要是搬瓦工就是买这货的托管服务。所以你看懂了搬瓦工香港为什么这么贵了吗？其实它在欧美那边也有pccw线路。令人气愤的是：人家价格便宜很多。为什么？为什么外国的月亮总是那么圆？
+
+比于美国VPS来说香港VPS的特点就是价格贵，带宽小，而且很多博主原来推荐的香港VPS都不好使了，今天就给大家盘点下现在还不错的香港VPS，这些都是根据大量用户使用后总结的，是比较可靠的。
+
+腾讯云香港 在国内都算非常老牌VPS主机商了，业界名称叫良心云，常年有打折活动,比国内某大厂良心多了.其性能稳定，香港的VPS也收到了不少用户的好评，今年进军全球节点，为了适应中国需求，有专门的国际化网站支持，还支持国际友人客服，解决问题速度很快，价格比较适中、稳定，速度非常快，大品牌了有保障，他的香港到美国洛杉矶线路还提供了CN2的中美极速直连线路，带宽也很大，媲美香港数据中心不成问题（可以参考实际测评效果），主要是业界良心不超售，每台母机的VPS数量控制很好，所以有足够的带宽。
+
+![](https://lh4.googleusercontent.com/tctmxUAcZ66jSYaJMDPYnqGLbVHiLTHTYfvNxkjaayMXcS7_ExMtjSiv0-vjHDa4HsWROuwnXxWfME7qBc9GdlEydbu-EJNyek6xIPlfpSu9ARBV=w1280)
+
+支持主机类型：Linux VPS windows vps 付款方式：微信宝、信用卡 价格： 最低配置价格是3折一年（官方有7折优惠券） 腾讯云香港VPS详细介绍：：
+
+企鹅香港 是目前本吊测试的香港VPS中速度最快，也是最稳定的，使用CN2 GIA线路，即使夜间高峰也不掉速。这是一家专门经营香港主机的主机商，速度快，严格限制用户数量，防止超售，导致经常出现缺货，所以分为1期，2期，3期这种模式。可谓可遇不可求，唯一的缺点就是大陆这边知名度一般，每月最低费用是12.5人民币(常年缺货是肯定的)，如果按季度买是50元不到。不是傻的都知道只是可遇不可求的
+
+![](https://lh3.googleusercontent.com/MVOO9A1ZgM0RnZVLj2aQPn_K1EZE5B3ddjVoCREZXNq42vLuz7-tzs1_AJlRzl2J9oYlihkoMMIDDNKkKSta7g2ZWmbmudiqZEbRf554pj16lQwb=w1280)
+
+支持主机类型：Linux VPS
+
+付款方式：支付宝、 微信、信用卡、PayPal
+
+价格： 按月买是每月12.5元，按季度买是每个季度50元不到。
+
+企鹅香港VPS详细介绍：
+
+香港100MVPS\_日本100MVPS\_日本香港服务器 — 企鹅小屋qexw​bit.ly
+
+GigsGigs是一家国外VPS主机商，其志愿军特点就是对国内线路优化很好，所以速度很快，特别是其香港VPS即使是内陆访问延迟非常低，速度是特别的快，如果你在东南沿海等地区访问就更快了。这款香港VPS除了支持Linux VPS外，还支持Windows VPS，而且Windows VPS没有额外版权费用，几乎价格和Linux一样便宜。
+
+![](https://lh3.googleusercontent.com/WKsOCsoi3iSK3_snuKJzhM9peb_XT3lB3YZv5d1WRcfbzGq0m_6WHuyme9LwoXHyQHfzvlr8olX65l5ULyCuDnD7g8jzUC5qSv6fqrcXsA5DovGd=w1280)
+
+支持主机类型：Linux VPS、Windows VPS
+
+付款方式：支付宝、PayPal、信用卡
+
+价格： Linux VPS 和 Windows VPS都是10美元
+
+Place new Order — GigsGigsCloud.com​bit.ly
+
+香港VPS VPB — 稳定
+
+![](https://lh6.googleusercontent.com/B-5sElpvfzl1n1MMI7nMHBEHiXB-AtBNQkEwR6PtuIK39S1UUl0Cmsxcj1UfUtddRZ_eIJ0RDt7lJpLNGOGkPy4ZraE_l9jsKq-6XxoUQHv_iF-k=w1280)
+
+VPB是一家全球知名的主机商，它在全球都有众多的数据中心，在香港有专门的子公司，其香港VPS在国内拥有众多的客户，其香港VPS采用的3M独享带宽。这种大的主机商都有通病就是稳定，但是分配的带宽较少，值得注意的是当国外VPS、香港VPS被屏蔽的时候其VPS依然是非常稳定的，这也算是其一个亮点吧。另外VPB也是支持Linux VPS和Windows VPS的。
+
+支持主机类型：Linux VPS 和 Windows VPS
+
+付款方式：支付宝、PayPal、信用卡
+
+价格： Linux 和 Windows 价格一样，都是9.99美元/月
+
+以上就是我为大家推荐的几款香港VPS，如果要论速度那么
+
+搬瓦工>腾讯云>GigsGigs>VPB，搬瓦工价格贵还有可能缺货，腾讯云价格适中、稳定、速度快，支持中文客服， GigsGigs 价格和速度比较适中，VPB稳定有保障，至于怎么选择就看需要香港VPS的朋友了，至于其他的香港VPS要么就是太贵用不起，要么就是速度太慢，要么就是国内无法使用，大家在选择的使用一定要注意。
