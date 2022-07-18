@@ -119,7 +119,7 @@ vultr毫无疑问是大厂中的大厂,特别是相对与国内更加算是大�
 
 当然要是你不计较的话花多几个钱买cn2 gia甚至是香港gia的话。那么上面的缺点就完全没啦。直接化身成流畅稳定速度快的神鸡。
 
-## 3.digitalocean
+## 3.腾讯云
 
 配置 ★★★★★
 
@@ -143,9 +143,10 @@ vultr毫无疑问是大厂中的大厂,特别是相对与国内更加算是大�
 劣势：
 
 +   进入云市场不如阿里云早，云生态还没阿里完善，不过对一般玩家来说等于没有区别。曾经在google 投关键词 居然找不到腾讯云这样的关键词。可见实力远大于知名度。趁现在推广不买更待何时？
-    
 
 国内局域网玩家强力推荐腾讯云。实力靠谱良心。不玩套路。用的也舒心放心。
+
+## 4.DigitalOcean
 
 配置:★★★★
 
@@ -173,7 +174,7 @@ digitalocean 诞生于2012年的美国纽约,一开始只是个小vps厂商.因�
 
 ![](https://lh5.googleusercontent.com/XzVolCzP1HpjkkQ128t3_TxmCZJfFQPK3hNPcnTsS5hk7p75ScmPvtvhvjOaY6RViQUJ-Fk72Z8YLxG6deVTQeIS3rmjtknVgmnpVZ1kcxxvpBbQ=w1280)
 
-## 4.linode
+## 5.linode
 
 配置: ★★★★★
 
@@ -220,7 +221,7 @@ VPS主机的费用可以低至3.95美元/月，高至数百美元/月。如果�
 
 即使缺点多多多-》贵小硬。还是挡不住人们购买香港vps追求极致速度的原始性需求啊。以下介绍下我觉得靠谱的香港vps商家：
 
-香港电讯盈科：
+## 香港电讯盈科：
 
 香港最大电信运营公司旗下机房，贵到飞起。只建议土豪入手。具体价格我都懒得罗列了。提起这货主要是搬瓦工就是买这货的托管服务。所以你看懂了搬瓦工香港为什么这么贵了吗？其实它在欧美那边也有pccw线路。令人气愤的是：人家价格便宜很多。为什么？为什么外国的月亮总是那么圆？
 
@@ -232,7 +233,9 @@ VPS主机的费用可以低至3.95美元/月，高至数百美元/月。如果�
 
 支持主机类型：Linux VPS windows vps 付款方式：微信宝、信用卡 价格： 最低配置价格是3折一年（官方有7折优惠券） 腾讯云香港VPS详细介绍：：
 
-企鹅香港 是目前本吊测试的香港VPS中速度最快，也是最稳定的，使用CN2 GIA线路，即使夜间高峰也不掉速。这是一家专门经营香港主机的主机商，速度快，严格限制用户数量，防止超售，导致经常出现缺货，所以分为1期，2期，3期这种模式。可谓可遇不可求，唯一的缺点就是大陆这边知名度一般，每月最低费用是12.5人民币(常年缺货是肯定的)，如果按季度买是50元不到。不是傻的都知道只是可遇不可求的
+## 企鹅香港 
+
+是目前本吊测试的香港VPS中速度最快，也是最稳定的，使用CN2 GIA线路，即使夜间高峰也不掉速。这是一家专门经营香港主机的主机商，速度快，严格限制用户数量，防止超售，导致经常出现缺货，所以分为1期，2期，3期这种模式。可谓可遇不可求，唯一的缺点就是大陆这边知名度一般，每月最低费用是12.5人民币(常年缺货是肯定的)，如果按季度买是50元不到。不是傻的都知道只是可遇不可求的
 
 ![](https://lh3.googleusercontent.com/MVOO9A1ZgM0RnZVLj2aQPn_K1EZE5B3ddjVoCREZXNq42vLuz7-tzs1_AJlRzl2J9oYlihkoMMIDDNKkKSta7g2ZWmbmudiqZEbRf554pj16lQwb=w1280)
 
@@ -246,6 +249,8 @@ VPS主机的费用可以低至3.95美元/月，高至数百美元/月。如果�
 
 香港100MVPS\_日本100MVPS\_日本香港服务器 — 企鹅小屋qexw​bit.ly
 
+## GigsGigs
+
 GigsGigs是一家国外VPS主机商，其志愿军特点就是对国内线路优化很好，所以速度很快，特别是其香港VPS即使是内陆访问延迟非常低，速度是特别的快，如果你在东南沿海等地区访问就更快了。这款香港VPS除了支持Linux VPS外，还支持Windows VPS，而且Windows VPS没有额外版权费用，几乎价格和Linux一样便宜。
 
 ![](https://lh3.googleusercontent.com/WKsOCsoi3iSK3_snuKJzhM9peb_XT3lB3YZv5d1WRcfbzGq0m_6WHuyme9LwoXHyQHfzvlr8olX65l5ULyCuDnD7g8jzUC5qSv6fqrcXsA5DovGd=w1280)
@@ -258,7 +263,7 @@ GigsGigs是一家国外VPS主机商，其志愿军特点就是对国内线路优
 
 Place new Order — GigsGigsCloud.com​bit.ly
 
-香港VPS VPB — 稳定
+## 香港VPS VPB — 稳定
 
 ![](https://lh6.googleusercontent.com/B-5sElpvfzl1n1MMI7nMHBEHiXB-AtBNQkEwR6PtuIK39S1UUl0Cmsxcj1UfUtddRZ_eIJ0RDt7lJpLNGOGkPy4ZraE_l9jsKq-6XxoUQHv_iF-k=w1280)
 
