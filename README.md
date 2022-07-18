@@ -4,13 +4,13 @@
 
 在过去的一年里.最大的感受就是因为貌似特殊的原因,很多针对大陆市场的小商家都倒闭跑路了.轻轻地留下一封跑路的邮件. 追也没追啊。所以本次排行这排那些相对靠谱并且是比较出名的[vps商家](http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F2Mh8Rw4&sa=D&sntz=1&usg=AOvVaw1sbx17foF8od2GvMJeRKME).基于以下原因:
 
-1。经验来看那些不出名的商家会设置一些门槛,这些门槛会使[最好的搬瓦工](http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F2Mh8Rw4&sa=D&sntz=1&usg=AOvVaw1sbx17foF8od2GvMJeRKME)和一般使用者难以使用,比如有名的菜鸟杀手idcf.即使其实力超群.线路优化一流,硬件配置质量一流,服务一流中的一流.可惜只服务于日本地区.要你何用?
+1.经验来看那些不出名的商家会设置一些门槛,这些门槛会使[最好的搬瓦工](http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F2Mh8Rw4&sa=D&sntz=1&usg=AOvVaw1sbx17foF8od2GvMJeRKME)和一般使用者难以使用,比如有名的菜鸟杀手idcf.即使其实力超群.线路优化一流,硬件配置质量一流,服务一流中的一流.可惜只服务于日本地区.要你何用?
 
 2.vps小商家人单势薄不定时oneman就是夫妻档,服务肯定跟不上 .能跟上的要么根本就是没几个人使用的,人多用服务还能跟的上还是小商家么.你敢用吗.费事介绍了.
 
 3.就是19年的商家跑路潮深深地震撼了我,一天几个商家跑路都有.吓死人灭.某段时间我数了一下一直关注跑路的商家：
 
-+   1.  Bigfoot Servers
+    1. Bigfoot Servers
         
     2.  DCNHost
         
@@ -48,6 +48,7 @@
         
     19.  X4Servers
         
+## 1.vultr
 
 有你曾几何时使用的那个吗?我都怀疑是否是同一个大佬的骚操作呢.
 
@@ -86,12 +87,7 @@ vultr毫无疑问是大厂中的大厂,特别是相对与国内更加算是大�
 
 +   vultr个人认为在就技术价格等纯硬件毫无疑问是稳稳的第一，然后个人比较恶心的是常年的套路操作。比如经常搞活动，活动的会突然而止，解释也是很勉强。公司的bug致使1m的网络变了100m。通知都没声就收回去了。我鸡的项目直接挂了几天都不知道。那个亏损谁负责？所以对它的好感不怎么样。抛弃个人情感。毫无疑问vultr最香的。不过其他云有追赶的趋势。
     
-
-SSD VPS Servers, Cloud Servers and Cloud Hosting by Vultr​bit.ly
-
-![](https://lh6.googleusercontent.com/2TnLhztVrtEcaV5jNZaTJE92VdbjlGeTIlFl3qIDE-VFzaxfYhEeUEMRH-zs6XuAexQ_Fg=w1280)
-
-![](https://lh5.googleusercontent.com/pF7YPn0j7xBdMU0blMe_HTLLDMv9sCFYqxuM2C7QJgHlIEtRIwZKLF_retbW0QeERwptwD_0-tZjbMp2PCb6C8Q5VlbGq03TASgbpwyGxbXNNEA6=w1280)
+## 2.搬瓦工
 
 配置:★★★★
 
@@ -123,9 +119,7 @@ SSD VPS Servers, Cloud Servers and Cloud Hosting by Vultr​bit.ly
 
 当然要是你不计较的话花多几个钱买cn2 gia甚至是香港gia的话。那么上面的缺点就完全没啦。直接化身成流畅稳定速度快的神鸡。
 
-[搬瓦工 — BandwagonHost VPS​bwg.freelancewebs.net](https://www.google.com/url?q=https%3A%2F%2Fmatters.news%2F%40kaimenzhe%2F2021%25E6%259C%2580%25E5%25A5%25BD%25E7%259A%2584vps%25E6%258E%25A8%25E8%258D%2590-vps%25E8%25AF%2584%25E6%25B5%258B-%25E4%25BE%25BF%25E5%25AE%259Cvps-%25E9%25A6%2599%25E6%25B8%25AFvps%25E6%258E%25A8%25E8%258D%2590-%25E9%25A6%2599%25E6%25B8%25AFvps-bafyreiaoy6kzoq5g6ac35zvomcjbdrmpvvdjzmepw3edtdqifsmdzzbhim&sa=D&sntz=1&usg=AOvVaw3Mx72ANzk2PR0M1DToWH8W)
-
-![](https://lh5.googleusercontent.com/y2iOhNpgGui01T14m8cBh9NPPwDBy1OlgybUNVV9NAp_ltsgcoCPMbfk7ZephZzCt5n5ZOIVyP-bBqhYbNGN0l-z94h4yQu-XbVPmlkcmzmUy_Hx=w1280)
+## 3.digitalocean
 
 配置 ★★★★★
 
@@ -178,6 +172,8 @@ digitalocean 诞生于2012年的美国纽约,一开始只是个小vps厂商.因�
     
 
 ![](https://lh5.googleusercontent.com/XzVolCzP1HpjkkQ128t3_TxmCZJfFQPK3hNPcnTsS5hk7p75ScmPvtvhvjOaY6RViQUJ-Fk72Z8YLxG6deVTQeIS3rmjtknVgmnpVZ1kcxxvpBbQ=w1280)
+
+## 4.linode
 
 配置: ★★★★★
 
