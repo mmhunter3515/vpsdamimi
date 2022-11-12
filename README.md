@@ -1,10 +1,10 @@
 # 最好的国外VPS推荐
 
-2022年不知不觉就到来啦.[vps服务器商](http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F2Mh8Rw4&sa=D&sntz=1&usg=AOvVaw1sbx17foF8od2GvMJeRKME)在19年貌似都不好过啊.在新的一年里vps的江湖要从重新排位了.当然了这个是个人在vps服务器这个行业使用多年和观察多年本着客观的心写的 主观的排位拉.俗话说一样米养百样人.每个人心中都有自己的那个哈利波特.因为vps服务器这样产品的特殊性.对个人来说可能使用感受会不一样.点解？比如说:你是个在深圳的用户使用的系统是windows经常访问的网络是香港那边的.那么和我这个在上海的码农长期使用的是linux系统经常访问的网络是外网.2者就算使用同一个vps商家同一款vps产品.使用的感受也是大大的不同的.希望大家可以get到哈.
+2022年不知不觉就到来啦.[vps服务器商](http://bit.ly/2Mh8Rw4)在19年貌似都不好过啊.在新的一年里vps的江湖要从重新排位了.当然了这个是个人在vps服务器这个行业使用多年和观察多年本着客观的心写的 主观的排位拉.俗话说一样米养百样人.每个人心中都有自己的那个哈利波特.因为vps服务器这样产品的特殊性.对个人来说可能使用感受会不一样.点解？比如说:你是个在深圳的用户使用的系统是windows经常访问的网络是香港那边的.那么和我这个在上海的码农长期使用的是linux系统经常访问的网络是外网.2者就算使用同一个vps商家同一款vps产品.使用的感受也是大大的不同的.希望大家可以get到哈.
 
-在过去的一年里.最大的感受就是因为貌似特殊的原因,很多针对大陆市场的小商家都倒闭跑路了.轻轻地留下一封跑路的邮件. 追也没追啊。所以本次排行这排那些相对靠谱并且是比较出名的[vps商家](http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F2Mh8Rw4&sa=D&sntz=1&usg=AOvVaw1sbx17foF8od2GvMJeRKME).基于以下原因:
+在过去的一年里.最大的感受就是因为貌似特殊的原因,很多针对大陆市场的小商家都倒闭跑路了.轻轻地留下一封跑路的邮件. 追也没追啊。所以本次排行这排那些相对靠谱并且是比较出名的[vps商家](http://bit.ly/2Mh8Rw4).基于以下原因:
 
-1.经验来看那些不出名的商家会设置一些门槛,这些门槛会使[最好的搬瓦工](http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F2Mh8Rw4&sa=D&sntz=1&usg=AOvVaw1sbx17foF8od2GvMJeRKME)和一般使用者难以使用,比如有名的菜鸟杀手idcf.即使其实力超群.线路优化一流,硬件配置质量一流,服务一流中的一流.可惜只服务于日本地区.要你何用?
+1.经验来看那些不出名的商家会设置一些门槛,这些门槛会使[最好的搬瓦工](http://bit.ly/2Mh8Rw4)和一般使用者难以使用,比如有名的菜鸟杀手idcf.即使其实力超群.线路优化一流,硬件配置质量一流,服务一流中的一流.可惜只服务于日本地区.要你何用?
 
 2.vps小商家人单势薄不定时oneman就是夫妻档,服务肯定跟不上 .能跟上的要么根本就是没几个人使用的,人多用服务还能跟的上还是小商家么.你敢用吗.费事介绍了.
 
@@ -66,9 +66,9 @@
 
 综合 ★★★★☆
 
-官网：[https://vultr.com](https://www.google.com/url?q=https%3A%2F%2Fvultr.com%2F&sa=D&sntz=1&usg=AOvVaw05KkezxVA3VEC0FuB8O84N)
+官网：[https://vultr.com](https://bit.ly/2yuHgU6)
 
-最新注册送一百美金活动:[注册送一百美金](http://www.google.com/url?q=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttp%253A%2F%2Fbit.ly%2F2yuHgU6&sa=D&sntz=1&usg=AOvVaw1UxpgVYRJ6mecfGgBz5JKe)
+最新注册送一百美金活动:[注册送一百美金](https://bit.ly/2yuHgU6)
 
 vultr毫无疑问是大厂中的大厂,特别是相对与国内更加算是大厂中的战斗鸡。加上近年来在国际上的云战略部署,更是将云服务玩到了世界。全球有多个数据中心.根据最新资料现在其已经旷展到了16个数据中心.并且vultr的硬件配置非常强劲.cpu一般是e5甚至在近来amd发力的情况下上了i9之类以前主打家用的cpu。而硬盘必须是intel的ssd。还有个一般厂商不具备的功能就是按可以按月或者按小时计费(特别是国际版)。某些时候更是有超出了天际的性价比vps,比如2.5想想都觉得美。可以说是这个星球机房最多配置最灵活的vps大厂.
 
@@ -99,7 +99,7 @@ vultr毫无疑问是大厂中的大厂,特别是相对与国内更加算是大�
 
 综合评定:★★★★
 
-官网：[https://bandwagonhost.com](https://www.google.com/url?q=https%3A%2F%2Fmatters.news%2F%40kaimenzhe%2F2021%25E6%259C%2580%25E5%25A5%25BD%25E7%259A%2584vps%25E6%258E%25A8%25E8%258D%2590-vps%25E8%25AF%2584%25E6%25B5%258B-%25E4%25BE%25BF%25E5%25AE%259Cvps-%25E9%25A6%2599%25E6%25B8%25AFvps%25E6%258E%25A8%25E8%258D%2590-%25E9%25A6%2599%25E6%25B8%25AFvps-bafyreiaoy6kzoq5g6ac35zvomcjbdrmpvvdjzmepw3edtdqifsmdzzbhim&sa=D&sntz=1&usg=AOvVaw3Mx72ANzk2PR0M1DToWH8W)
+官网：[https://bandwagonhost.com](http://bit.ly/2Mh8Rw4)
 
 搬瓦工在国内知名度非常高,它是加拿大公司it7下面的子公司,可以说是主要的客户人群在国内，一个字便宜稳定购买又方便。。都是国内最爱的特点了.近一年多可以看到搬瓦工正在进行业务方面的调整.似乎正在优化掉低端的vps服务比如极低价的openvz架构系列vps.已经进入了历史的坟墓.和我国的经济一样正在向高质量方向发展呢.
 
