@@ -131,7 +131,7 @@ vultr毫无疑问是大厂中的大厂,特别是相对与国内更加算是大�
 
 综合 ★★★★☆
 
-官网：[https://cloud.tencent.com](https://www.google.com/url?q=https%3A%2F%2Fcloud.tencent.com%2F&sa=D&sntz=1&usg=AOvVaw0YQoAX9ZYZoyF4rEG0NtmB)
+官网：[https://cloud.tencent.com]()
 
 云产品采购季，助力行业复工！-腾讯云​url.cn
 
