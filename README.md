@@ -4,7 +4,7 @@
     
 ## 十大国外VPS推荐      
     
-## [1.racknerd(http://bit.ly/2Mh8Rw4)
+## [1.racknerd(https://my.racknerd.com/aff.php?aff=12489)
 
 配置:★★★★
 
